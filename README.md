@@ -35,7 +35,7 @@ Burada eğitim süresince derslerde işlenecek konu başlıklarını bulabilirsi
 * Hata Yakalama Mekanizmaları
 * Nesneye Dayalı Programlama
 * Kalıtım ve Java ile Modüler Programlama
- 1. Inheritance
+ ***Inheritance
  ** Polymorphism
  ** Abstraction
  ** Encapsulation
@@ -54,11 +54,12 @@ Burada eğitim süresince derslerde işlenecek konu başlıklarını bulabilirsi
  
 ### Hafta 4
 * Clean Code Prensipleri
- * Decomposition
- * Single Responsibility Principle
- * Low Coupling Principle
- * Reusability
- * SOLID Principles
+ **** Decomposition
+ **** Single Responsibility Principle
+ **** Low Coupling Principle
+ **** Reusability
+ **** SOLID Principles
+ 
 * Maven, Git ve Java Geliştirme Araçları
 
 ---
