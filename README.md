@@ -35,11 +35,11 @@ Burada eğitim süresince derslerde işlenecek konu başlıklarını bulabilirsi
 * Hata Yakalama Mekanizmaları
 * Nesneye Dayalı Programlama
 * Kalıtım ve Java ile Modüler Programlama
- ***** Inheritance
- b. Polymorphism
- c. Abstraction
- d. Encapsulation
- e. Interfaces
+* Inheritance
+* Polymorphism
+* Abstraction
+* Encapsulation
+* Interfaces
 * Nesneye Dayalı Kodlama Örnekleri
 
 ### Hafta 3:
