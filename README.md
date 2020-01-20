@@ -35,7 +35,7 @@ Burada eğitim süresince derslerde işlenecek konu başlıklarını bulabilirsi
 * Hata Yakalama Mekanizmaları
 * Nesneye Dayalı Programlama
 * Kalıtım ve Java ile Modüler Programlama
- * a. Inheritance
+ ***** Inheritance
  b. Polymorphism
  c. Abstraction
  d. Encapsulation
