@@ -16,7 +16,7 @@ Java Teknolojileri ile Programlama - 101 eğitimiyle birlikte programlama konusu
 
 ## Eğitim İçeriği:
 
-Burada eğitim süresince derslerde işlenecek konu başlıkları verilecek. 
+Burada eğitim süresince derslerde işlenecek konu başlıklarını bulabilirsiniz. 
 
 ### Hafta 1: 
 * Java Tarihçesi
@@ -35,11 +35,11 @@ Burada eğitim süresince derslerde işlenecek konu başlıkları verilecek.
 * Hata Yakalama Mekanizmaları
 * Nesneye Dayalı Programlama
 * Kalıtım ve Java ile Modüler Programlama
- * Inheritance
- * Polymorphism
- * Abstraction
- * Encapsulation
- * Interfaces
+ ** Inheritance
+ ** Polymorphism
+ ** Abstraction
+ ** Encapsulation
+ ** Interfaces
 * Nesneye Dayalı Kodlama Örnekleri
 
 ### Hafta 3:
