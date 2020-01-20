@@ -1,4 +1,4 @@
-# Java Teknolojileri ile Programlama - 101
+# İstanbul Java Bootcamp
 
 #### Programa Genel Bakış
 
@@ -86,9 +86,6 @@ Java ile MongoDB İşlemleri
 * Java Servlet ve Filter'lar
 * Java Server Page
 * Java Server Faces
-
-
-
 
 
 ---
