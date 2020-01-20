@@ -52,7 +52,7 @@ Burada eğitim süresince derslerde işlenecek konu başlıklarını bulabilirsi
  * Map ve Tipleri
  * Queue ve Stack Yapıları
  
-### Hafta 4
+### Hafta 4:
 1. Clean Code Prensipleri
  * Decomposition
  * Single Responsibility Principle
@@ -61,9 +61,41 @@ Burada eğitim süresince derslerde işlenecek konu başlıklarını bulabilirsi
  * SOLID Principles
 2. Maven, Git ve Java Geliştirme Araçları
 
+### Hafta 5:
+* JUnit Testleri
+* Veritabanı Kavramı
+* Veritabanı Yönetim Sistemleri
+	* İlişkisel Veritabanları
+	* No-SQL Veritabanları
+Java ile JDBC İşlemleri
+	* Select
+	* Insert
+	* Update
+	* Delete
+Java ile MongoDB İşlemleri
+
+### Hafta 6:
+* Dependency Injection ve Inversion of Control Kavramları
+* Spring Core Framework ile Kod Geliştirme
+* Spring MVC Kütüphanesi
+
+### Hafta 7:
+* Web Uygulama Mimarileri
+ * Server-side Web Mimarisi
+ * Hibrit Web Mimarisi
+* Java Servlet ve Filter'lar
+* Java Server Page
+* Java Server Faces
+
+
+
+
+
 ---
 
 ### Bilinmesi Gerekenler:
+Eğitime katılacak öğrencilerin temel programlama bilgisine sahip olmaları beklenmektedir.
+
 
 Öğrencilerimiz tarafından dikkat edilmesi gereken kurallar bütünü: [Code Of Conduct](https://github.com/Kodluyoruz/Code-Of-Conduct)
  
