@@ -43,8 +43,8 @@ Burada eğitim süresince derslerde işlenecek konu başlıklarını bulabilirsi
 * Nesneye Dayalı Kodlama Örnekleri
 
 ### Hafta 3:
-* Java'da ile Generic'lerin Kullanımı
-* Java Collection Kütüphanesi
+1. Java'da ile Generic'lerin Kullanımı
+2. Java Collection Kütüphanesi
  * Iterator
  * Comparator
  * List ve Tipleri
@@ -53,14 +53,13 @@ Burada eğitim süresince derslerde işlenecek konu başlıklarını bulabilirsi
  * Queue ve Stack Yapıları
  
 ### Hafta 4
-* Clean Code Prensipleri
- **** Decomposition
- **** Single Responsibility Principle
- **** Low Coupling Principle
- **** Reusability
- **** SOLID Principles
- 
-* Maven, Git ve Java Geliştirme Araçları
+1. Clean Code Prensipleri
+ * Decomposition
+ * Single Responsibility Principle
+ * Low Coupling Principle
+ * Reusability
+ * SOLID Principles
+2. Maven, Git ve Java Geliştirme Araçları
 
 ---
 
