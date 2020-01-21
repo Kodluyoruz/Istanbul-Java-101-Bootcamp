@@ -1,4 +1,4 @@
-# İstanbul Java Bootcamp
+# İstanbul Java 101 Bootcamp
 
 #### Programa Genel Bakış
 
